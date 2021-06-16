@@ -11,5 +11,10 @@ public class Main {
         Feron.heat="600000000000kj";
         Feron.Radius="5769860870km";
         Feron.Temperature="5659879809f";
+
+        Planet1 Omaro=new Planet1();
+        Omaro.Radius="676080";
+        Omaro.Size="jk";
+
     }
 }
